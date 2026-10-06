@@ -1,0 +1,10 @@
+tmp/
+dist/
+.idea/
+.vscode/
+node_modules/
+.DS_Store
+npm-debug.log
+package-lock.json
+.env
+dist_bkp_v2/
